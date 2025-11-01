@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.361f600a.css",
+    "main.js": "/my-portfolio/static/js/main.bb9d3e23.js",
+    "static/js/977.06e98901.chunk.js": "/my-portfolio/static/js/977.06e98901.chunk.js",
+    "static/js/455.55c2804e.chunk.js": "/my-portfolio/static/js/455.55c2804e.chunk.js",
+    "static/js/453.c6a9083d.chunk.js": "/my-portfolio/static/js/453.c6a9083d.chunk.js",
+    "static/media/me.png": "/my-portfolio/static/media/me.96d39f8ccb09c6dfa5af.png",
+    "static/media/art-3.jpg": "/my-portfolio/static/media/art-3.8f077e1c7e6333d38e1a.jpg",
+    "static/media/web design 1.jpg": "/my-portfolio/static/media/web design 1.d042e1479bab15c6b2a7.jpg",
+    "static/media/wordpress 1.jpg": "/my-portfolio/static/media/wordpress 1.4019abd00e8cef302d81.jpg",
+    "static/media/art-2.webp": "/my-portfolio/static/media/art-2.ee9d471e3a39c5358f0b.webp",
+    "static/media/photography 2.jpg": "/my-portfolio/static/media/photography 2.8e886c4bddff12cf8987.jpg",
+    "static/media/photography 1.jpg": "/my-portfolio/static/media/photography 1.fdd731a5be28082b3a58.jpg",
+    "static/media/wordpress 2.jpg": "/my-portfolio/static/media/wordpress 2.979029c3c9e353090a1a.jpg",
+    "static/media/instagram.png": "/my-portfolio/static/media/instagram.b39340ea74490a3d5b52.png",
+    "static/media/web design 2.jpg": "/my-portfolio/static/media/web design 2.eb79508d59d98fa99ea1.jpg",
+    "static/media/twitter.png": "/my-portfolio/static/media/twitter.d421ccb345f92df09d84.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.1c9a95262a7cfbc6d6a1.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.361f600a.css.map": "/my-portfolio/static/css/main.361f600a.css.map",
+    "main.bb9d3e23.js.map": "/my-portfolio/static/js/main.bb9d3e23.js.map",
+    "977.06e98901.chunk.js.map": "/my-portfolio/static/js/977.06e98901.chunk.js.map",
+    "455.55c2804e.chunk.js.map": "/my-portfolio/static/js/455.55c2804e.chunk.js.map",
+    "453.c6a9083d.chunk.js.map": "/my-portfolio/static/js/453.c6a9083d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.361f600a.css",
+    "static/js/main.bb9d3e23.js"
+  ]
+}
